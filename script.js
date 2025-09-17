@@ -13,3 +13,7 @@ for(let i = 1; i <= 100; i++){
         console.log(i)
     }
 }
+/*  
+step 1: creare un ciclo che stampi i numeri da 1 a 100
+step 2: inserire un ciclo if così che all'interno del ciclo vengano scansionati e trattati solo determinati numeri
+*/
